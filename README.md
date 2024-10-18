@@ -13,6 +13,7 @@ This repository contains implementations of various AI search algorithms, includ
 - **Branch and Bound with Estimated Heuristics**
 - **A* Search**
 - **Best-First Search**
+## Gaming Algorithms
 - **Alpha-Beta Pruning** (for game trees)
 ## GRAPH
 ![graph_output](https://github.com/user-attachments/assets/6b269fa7-5c5e-418b-912f-e28692e9b366)
@@ -60,6 +61,7 @@ A* is an informed search algorithm that uses heuristics to find the least-cost p
 
 Best-First Search selects the node that appears to be the best according to a given heuristic. This method is efficient in exploring graphs with optimal paths.
 
-### 11. Alpha-Beta Pruning
+
+###  Alpha-Beta Pruning
 
 Alpha-Beta Pruning is an optimization technique for the minimax algorithm that reduces the number of nodes evaluated in the search tree, enhancing performance in game-playing AI.
