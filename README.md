@@ -12,6 +12,7 @@ This repository contains implementations of various AI search algorithms, includ
 - **Branch and Bound with Extended List**
 - **Branch and Bound with Estimated Heuristics**
 - **A*** **Search**
+- **AO** * **Search**
 - **Best-First Search**
 ## Gaming Algorithms
 - **Alpha-Beta Pruning** (for game trees)
